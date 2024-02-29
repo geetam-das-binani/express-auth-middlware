@@ -1,0 +1,16 @@
+{
+  "name": "express-auth-middleware",
+  "version": "1.0.0",
+  "description": "An authentiction middleware for express apps",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "keywords": [],
+  "author": "Geetam Das Binani",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  }
+}
